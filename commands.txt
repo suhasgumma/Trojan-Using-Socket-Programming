@@ -1,0 +1,11 @@
+1. View Current Directory - "vcd"
+
+2. View Files in Custom Directory - "vfcd"
+
+3. download_file
+
+4. replace
+
+5. replace
+
+6. replicate
